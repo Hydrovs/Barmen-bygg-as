@@ -1,0 +1,72 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.banner {
+    text-align: center;
+
+}
+
+.banner-image {
+    max-width: 50%; 
+    height: auto;
+}
+
+
+.nav {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(102, 101, 52);
+    margin: auto;
+}
+
+.nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav li {
+    display: inline-block;
+    padding: 20px 100px;
+    font: bold;
+    border-style: calc();
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.text{
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+
+}
+
+.høvel {
+    text-align: center;
+}
+
+.down{
+    font-size: 15px;
+    background-color: rgb(102, 101, 52);
+    color: white;
+}
+
+.down ul{
+    list-style-type: none;
+    padding: 15px;
+}
